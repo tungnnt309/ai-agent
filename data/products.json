@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "MacBook Air M1",
+    "description": "Lightweight laptop with M1 chip.",
+    "image": "https://cdn.tgdd.vn/Products/Images/44/231244/Slider/vi-vn-apple-macbook-air-2020-mgn63saa-thumbvideo.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Dell Inspiron 15",
+    "description": "Affordable laptop for studying and office use.",
+    "image": "https://cdn.tgdd.vn/Products/Images/44/321192/Slider/vi-vn-dell-inspiron-15-3520-i5-25p231-slider-1.jpg"
+  }
+]

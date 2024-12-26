@@ -1,0 +1,115 @@
+[
+  {
+    "_id": {
+      "$oid": "627ca26a6c15580040c8b3ea"
+    },
+    "categories": [
+      {
+        "$oid": "627ca2666c15580040c89fcb"
+      }
+    ],
+    "denominations": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "50",
+      "100",
+      "200",
+      "500"
+    ],
+    "acceptCurrencies": [
+      {
+        "$oid": "621c4a05cbd2c8003593f592"
+      },
+      {
+        "$oid": "621c4a05cbd2c8003593f593"
+      },
+      {
+        "$oid": "628c95e3c94e780008b09185"
+      },
+      {
+        "$oid": "62281aba663bb4002fe1389c"
+      },
+      {
+        "$oid": "628f4c5884b5700007c7cfc1"
+      },
+      {
+        "$oid": "628e0a26e8c8662d513ba1d7"
+      },
+      {
+        "$oid": "628c95e3c94e780008b0917f"
+      },
+      {
+        "$oid": "628c95e3c94e780008b09182"
+      }
+    ],
+    "isEnabled": true,
+    "provider": {
+      "$oid": "6209d3959e1a2f0036924cf7"
+    },
+    "brand": {
+      "$oid": "627ca2696c15580040c8ae36"
+    },
+    "name": "Buyagift UK",
+    "description": "<p style=\"margin-left:-11.0pt;\">Buyagift is the UK leading provider of experience days and gift experiences. If you are looking for a unique birthday gift or an extra special Christmas present, or just a novel way to mark your own special occasion then Buyagift offers an exceptional choice from which to select. By purchasing a gift experience for your friend or loved one you are not just giving them a thoughtful present, but also a wealth of memories to enjoy for years to come. A unique Buyagift experience day really is the gift that keeps on giving. From helicopter flying and cookery lessons to supercar driving and relaxing short breaks, Buyagift has everything that you could possibly need to make someone's special occasion unforgettable. With over 4,000 gifts and experiences to choose from, you are sure to find the perfect gift for even the most discerning loved one, whether they are an aspiring gourmet or a high-flying thrill-seeker. These offers cant be used in conjunction with any other offer.</p><p>&nbsp;</p>",
+    "imageUrl": "https://res.cloudinary.com/dyyjph6kx/image/upload/fl_lossy,f_auto,q_auto,h_280,w_420,c_fill/gift_vouchers/phpSSftUt_gnwid5.jpg",
+    "rawInfo": {
+      "productId": 24532,
+      "name": "Buyagift UK",
+      "description": "<p style=\"margin-left:-11.0pt;\">Buyagift is the UK leading provider of experience days and gift experiences. If you are looking for a unique birthday gift or an extra special Christmas present, or just a novel way to mark your own special occasion then Buyagift offers an exceptional choice from which to select. By purchasing a gift experience for your friend or loved one you are not just giving them a thoughtful present, but also a wealth of memories to enjoy for years to come. A unique Buyagift experience day really is the gift that keeps on giving. From helicopter flying and cookery lessons to supercar driving and relaxing short breaks, Buyagift has everything that you could possibly need to make someone's special occasion unforgettable. With over 4,000 gifts and experiences to choose from, you are sure to find the perfect gift for even the most discerning loved one, whether they are an aspiring gourmet or a high-flying thrill-seeker. These offers cant be used in conjunction with any other offer.</p><p>&nbsp;</p>",
+      "orderQuantityLimit": 10,
+      "termsAndConditionsInstructions": "<div>1. Validity cannot be extended once expired.</div><div>2. Gift Cards (Vouchers) will be delivered within 4 to 5 working days.</div><div>3. No returns and no refunds on Gift Cards (Vouchers).</div><div>4. For more information and entire details about terms and conditions visit the website <a href=\"http://www.buyagift.co.uk\">www.buyagift.co.uk</a> or&nbsp; you can also email to <a href=\"http://cs@xoxoday.com\">cs@xoxoday.com</a></div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div>",
+      "expiryAndValidity": "<p>10 Months</p>",
+      "redemptionInstructions": "<div>Buyagift Gift Cards (Vouchers) can be redeemed to purchase a wide variety of products in the following manner:</div><div>1. Go to&nbsp;<a href=\"http://www.buyagift.co.uk\">www.buyagift.co.uk</a></div><div>2. Click on 'Other Options' and Select 'Gift Cards (Vouchers)' as your Payment Mode.</div><div>3. Enter your 16-digit Card/Voucher No, and 4-digit Pin No. Click on 'Make Payment'.</div>",
+      "categories": "Travel and Tourism",
+      "lastUpdateDate": "2023-03-31 00:14:43",
+      "imageUrl": "https://res.cloudinary.com/dyyjph6kx/image/upload/fl_lossy,f_auto,q_auto,h_280,w_420,c_fill/gift_vouchers/phpSSftUt_gnwid5.jpg",
+      "currencyCode": "GBP",
+      "currencyName": "Pound",
+      "countryName": "UK",
+      "countryCode": "GB",
+      "countries": [
+        {
+          "code": "GB",
+          "name": "UK"
+        }
+      ],
+      "valueType": "fixed_denomination",
+      "maxValue": 0,
+      "minValue": 0,
+      "valueDenominations": "500,200,100,50,5,4,3,2,1",
+      "tatInDays": "0",
+      "usageType": "",
+      "deliveryType": "realtime",
+      "fee": 0,
+      "discount": 1,
+      "exchangeRate": 1.32836646,
+      "isPhoneNumberMandatory": false,
+      "isRecommended": 1
+    },
+    "fiatCurrency": {
+      "$oid": "627c94776c15580040c5f1a7"
+    },
+    "termsAndConditionsInstructions": "<div>1. Validity cannot be extended once expired.</div><div>2. Gift Cards (Vouchers) will be delivered within 4 to 5 working days.</div><div>3. No returns and no refunds on Gift Cards (Vouchers).</div><div>4. For more information and entire details about terms and conditions visit the website <a href=\"http://www.buyagift.co.uk\">www.buyagift.co.uk</a> or&nbsp; you can also email to <a href=\"http://cs@xoxoday.com\">cs@xoxoday.com</a></div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div>",
+    "expiryAndValidity": "<p>10 Months</p>",
+    "redemptionInstructions": "<div>Buyagift Gift Cards (Vouchers) can be redeemed to purchase a wide variety of products in the following manner:</div><div>1. Go to&nbsp;<a href=\"http://www.buyagift.co.uk\">www.buyagift.co.uk</a></div><div>2. Click on 'Other Options' and Select 'Gift Cards (Vouchers)' as your Payment Mode.</div><div>3. Enter your 16-digit Card/Voucher No, and 4-digit Pin No. Click on 'Make Payment'.</div>",
+    "lastUpdateDate": "2023-03-31 00:14:43",
+    "deliveryType": "realtime",
+    "usageType": "",
+    "tatInDays": 0,
+    "createdAt": 1652335210,
+    "updatedAt": 1712023212,
+    "__v": 11176,
+    "systemServices": [
+      {
+        "$oid": "62ba87d0aeb5a6009d6f64ea"
+      }
+    ],
+    "isSubVoucher": false,
+    "locale": {},
+    "nameUnicode": "0042007500790061006700690066007400200055004b",
+    "denominationType": "fixed"
+  }
+]
